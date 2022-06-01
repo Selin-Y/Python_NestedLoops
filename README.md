@@ -1,6 +1,6 @@
 # Python-Projects 1 (Nested Loops)
 
-The best way to describe nested loops is the asterisk. In this project, it is shown to make stars with nested loops.
+The best way to describe nested loops is the asterisk. In this project, it is shown to make a triangle with stars.
 
 ![image](https://user-images.githubusercontent.com/83660447/171495756-6fa5d780-a8d3-4373-a421-50d2e145ac07.png)
 
